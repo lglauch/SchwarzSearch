@@ -1,0 +1,61 @@
+body{
+    background-color: aliceblue;
+}
+
+.background-pic{
+    background-image: url("https://images.squarespace-cdn.com/content/v1/58165edf37c581849eb2b8c4/1613663311071-9N8E1M07M87HYGXKLBYB/1613065166187.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.image {
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 2px solid gray;
+    border-radius: 30px;
+    padding: 15px;
+    margin-top: 200px;
+    margin-bottom: 50px;
+    background: rgb(249, 249, 249);
+}
+
+.search-input {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border: 2px solid rgb(209, 206, 206);
+    border-radius: 30px;
+}
+
+.button-search{
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 0px;
+    border-radius: 10px;
+    margin-top: 25px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 13px;
+    background: rgb(228, 228, 228);
+}
+
+p{
+    color: aliceblue;
+    background-color: rgb(163, 163, 163);
+    padding: 10px;
+    font-size: small;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
